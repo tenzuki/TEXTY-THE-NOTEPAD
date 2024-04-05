@@ -17,9 +17,11 @@ pip install pyqt5
 ```
 
 ## 🚀 Future Development
--- **voice to text** : enabling the feature to write in the file using speech
--- **desighn** : changing the simple ui to a responsive and fun looking ui 
--- **more functionalities** : giving out more functions and features to the texty 
+- **voice to text** : enabling the feature to write in the file using speech.
+- **desighn** : changing the simple ui to a responsive and fun looking ui.
+- **more functionalities** : giving out more functions and features to the texty.
+ 
+Stay Tuned For More Updates
 
 ## 💽 Usage
 To run the application, simply run the script:
