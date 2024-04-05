@@ -1,34 +1,40 @@
-# 📝 TEXTY - A Simple Text Editor in Python
+# 📝 TEXTY
 
-!Text Editor
+## 📚 Description\
 
-TEXTY is a simple yet powerful text editor built with Python and PyQt5. It provides basic functionalities like opening and saving files, making it perfect for quick notes and edits.
+This is a **simple yet powerful text editor** application written in Python using the PyQt5 library. The application allows you to open, edit, and save text files with ease.
 
-## 🌟 Features
+## ✨ Features
 
-- 📂 Open text files
-- 💾 Save text files
+- **Open text files**: Easily open any text file in your system.
+- **Edit text files**: Make changes to your text files using a user-friendly interface.
+- **Save text files**: Save your changes with just a click.
 
-## 🚀 Installation
+## 🔧 Installation
 
-Before running the application, make sure you have Python and PyQt5 installed on your system.
-
-You can install PyQt5 using pip:
+Before running the application, you need to install PyQt5. You can install it using pip:
 
 ```bash
-pip install PyQt5
+pip install pyqt5
 ```
 
-## 🎯 Usage
-To run the application, simply execute the python script:
+## 🚀 Future Development
+-- **voice to text** : enabling the feature to write in the file using speech
+-- **desighn** : changing the simple ui to a responsive and fun looking ui 
+-- **more functionalities** : giving out more functions and features to the texty 
+
+## 💽 Usage
+To run the application, simply run the script:
+
 ```bash
-texty.py
+main.py
 ```
-This will open the TEXTY text editor. You can open a file by clicking on File > Open and save a file by clicking on File > Save.
 
 ## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Let’s make this text editor even better!
 
 ## 📜 License
-MIT
+This project is licensed under the MIT License.
 
+## 🌟 Star the Project
+If you find this project useful, please consider giving it a ⭐️!
