@@ -1,6 +1,6 @@
 # 📝 TEXTY
 
-## 📚 Description\
+## 📚 Description
 
 This is a **simple yet powerful text editor** application written in Python using the PyQt5 library. The application allows you to open, edit, and save text files with ease.
 
